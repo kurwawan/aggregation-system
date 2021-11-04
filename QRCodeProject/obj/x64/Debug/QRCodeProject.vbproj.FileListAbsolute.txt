@@ -1,0 +1,8 @@
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.FormLogin.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.FormQRCodeOmronScanner.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.FormQRCodeOmronScanner2.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.FormQRCodeScanner.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.FormTestingPlc.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.Resources.resources
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.vbproj.GenerateResource.cache
+C:\Users\Ifars\source\repos\BACKUP\QRCodeProject\QRCodeProject\obj\x64\Debug\QRCodeProject.vbproj.CoreCompileInputs.cache
